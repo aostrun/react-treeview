@@ -1,7 +1,7 @@
 {
-  "name": "react-ui-tree",
+  "name": "react-treeview",
   "version": "4.0.0",
-  "description": "React tree component",
+  "description": "React treeview component",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --port=8080",
@@ -16,19 +16,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pqx/react-ui-tree.git"
+    "url": "https://github.com/aostrun/react-treeview"
   },
   "keywords": [
     "react",
     "react-component",
     "tree"
   ],
-  "author": "Wang Zuo",
+  "author": "Andrijan Ostrun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pqx/react-ui-tree/issues"
+    "url": "https://github.com/aostrun/react-treeview/issues"
   },
-  "homepage": "https://github.com/pqx/react-ui-tree",
+  "homepage": "https://github.com/aostrun/react-treeview",
   "peerDependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0"
