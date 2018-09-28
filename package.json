@@ -1,7 +1,7 @@
 {
-  "name": "react-treeview",
-  "version": "4.0.0",
-  "description": "React treeview component",
+  "name": "react-file-view",
+  "version": "1.0.0",
+  "description": "React file-view component",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --port=8080",
@@ -21,7 +21,8 @@
   "keywords": [
     "react",
     "react-component",
-    "tree"
+    "tree",
+    "file-view"
   ],
   "author": "Andrijan Ostrun",
   "license": "MIT",
